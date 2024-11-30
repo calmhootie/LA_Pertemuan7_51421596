@@ -1,6 +1,4 @@
 # LA_Pertemuan7_51421596
-halo
-
 Act 1
 Membahas Desain Perangkat Lunak
 
